@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "declaration": true,
+        "target": "es2017",
+        "module": "NodeNext",
+        "outDir": "./lib",
+        "rootDir": "./",
+        "sourceMap": true,
+        "incremental": true,
+        "tsBuildInfoFile": "./lib/.tsbuildinfo",
+        "moduleResolution": "NodeNext",
+        "esModuleInterop": true
+    }
+}
