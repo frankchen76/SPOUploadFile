@@ -10,3 +10,4 @@ CLIENT_ID=[client-id]
 CLIENT_SECRET=[client-secret]
 
  ``` 
+  * hit F5 to start the debugger. 
